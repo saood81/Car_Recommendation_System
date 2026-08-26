@@ -1,0 +1,6 @@
+query,avg_semantic_score,pct_within_budget,top1_make_model
+"affordable fuel-efficient car for daily city commuting under $10,000",0.1105,1.0,Daewoo Matiz
+"spacious family car with high safety rating, budget up to $20,000",0.1754,1.0,Daewoo Matiz
+"high performance luxury sports car, budget no more than $90,000",0.2309,1.0,Daewoo Matiz
+"eco-friendly electric car under $40,000",0.1688,1.0,Maruti WagonR Electric
+"cheap reliable car under $8,000",0.1517,1.0,Daewoo Matiz
